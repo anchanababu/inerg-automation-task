@@ -35,8 +35,7 @@ This framework demonstrates advanced automation techniques, including handling c
 
 1. **Step 1: Clone the repository**
    ```bash
-   git clone [https://github.com/anchanababu/inerg-automation-task-COVID-19-Tracker.git](https://github.com/anchanababu/inerg-automation-task-COVID-19-Tracker.git)
-   cd inerg-automation-task-COVID-19-Tracker
+   https://github.com/anchanababu/inerg-automation-task.git
    
 Step 2: Install dependencies
 
